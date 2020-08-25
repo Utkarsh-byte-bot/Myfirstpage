@@ -1,0 +1,36 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title> About Me </title>
+	<style type = "text/css">
+				Body {
+				color : blue; }
+	</style>
+</head>
+<body> 
+<h1>Utkarsh Bajpai</h1>
+<p><strong>Hello and welcome!</strong></p>
+ Hope y'all 'll enjoy ya time here.<br>
+<strong><h4>About Me</h4></strong>
+<font face = "Arial" size = "14" color= "red">EDUCATION</font>
+<ul>
+	<li><strong>10th(88%)</strong></li><br>
+	<li><strong>12th(82%)</strong></li><br>
+	<li><strong>Bachelor Of Technology(present)</strong></li>
+</ul>
+<font face= "Arial" size = "14" color= "Brown">His Favourite Novels(Not according to the preference)</font>
+<ol>
+	<li><strong><em>The Backbenchers Series</strong></em></li>
+	<li><strong><em>Roses are Blood Red</strong></em></li>
+	<li><strong><em>Half Torn Hearts</strong></em></li>
+	<li><strong><em>The Adventures of Feluda</strong></em></li>
+	<li><strong><em>Can Love Happen Twice</strong></em></li>
+	<li><strong><em>Wish I could Tell You</strong></em></li>
+	<li><strong><em>13 Reasons Why</strong></em></li>
+</ol>
+<font face ="Calibri" size ="14" color = "green">How to spot me in the crowd.Look for this face:)</font>
+<p>
+<img src = "ab900373@gmail.com.jpg" width = "333" height = " 350">
+</p>
+
+</html>
