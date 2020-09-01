@@ -18,7 +18,7 @@
 	<li><strong>12th(82%)</strong></li><br>
 	<li><strong>Bachelor Of Technology(present)</strong></li>
 </ul>
-<font face= "Arial" size = "14" color= "Brown">His Favourite Novels(Not according to the preference)</font>
+<font face= "Arial" size = "14" color= "Brown">My Favourite Novels(Not according to the preference)</font>
 <ol>
 	<li><strong><em>The Backbenchers Series</strong></em></li>
 	<li><strong><em>Roses are Blood Red</strong></em></li>
@@ -32,5 +32,52 @@
 <p>
 <img src = "ab900373@gmail.com.jpg" width = "333" height = " 350">
 </p>
+<p>
+<font face = "Arial" size = "12" color = "gray"> If you want to connect, click below:)</font><br>
+<a href = "https://www.facebook.com/aman.bajpai.7737" target = "_blank"><strong> Facebook </strong></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href = "https://www.instagram.com/_uttu_29/" target = "_blank"><strong>Instagram</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/utkarsh-bajpai-b42853193" target = "_blank"><strong>LinkedIn</strong></a><br>
+<h1><font color= "black"><u>My skills and their ratings as per me</h1></u></font>
+
+<table background = "images.png" width = "500" border = "3" bordercolor = "green" cellpadding = "1" cellspacing = "1">
+	<tr>
+		<td>
+		<table width = "500" border = "2" bordercolor="red" cellpadding="1" cellspacing =  "5">
+		<tr colspan = "2">
+		<td>Table Alpha</td>
+		</tr>
+	<tr>
+		<td> Skills</td>
+		<td> Rating(out of 10)</td>
+	</tr>
+	<tr>
+		<td>Content Writing</td>
+		<td> 8</td>
+	</tr>
+	<tr>
+		<td>Reading Skills</td>
+		<td> 9</td>
+	</tr>
+	<tr>
+		<td> Cloud Computing</td>
+		<td> 5 </td>
+	</tr>
+	<tr>
+		<td> Web Development</td>
+		<td> 2 </td>
+	</tr>
+	<tr>
+		<td>Python</td>
+		<td> 5 </td>
+	</tr>
+		<td>Android Development</td>
+		<td>Coming Soon;)</td>
+	<tr>
+	</tr>
+</table>
+		</td>
+	</tr>
+</table>
+<h2>Let me know that you passed by<3</h2>
 
 </html>
