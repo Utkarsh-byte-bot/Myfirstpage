@@ -79,5 +79,33 @@
 	</tr>
 </table>
 <h2>Let me know that you passed by<3</h2>
+<form>
+<table width = "500" border = "3" bordercolor = " grey" cellspacing= "2" cellpadding= "2">
+<tr>
+<td><label>Name</label></td>
+<td><input name = "cname" maxlength = "65"></td>
+</tr>
+<tr>
+<td><label>Email</label></td>
+<td><input name = "mail"></td>
+</tr>
+<tr>
+<td>You are here because:</td>
+<td>
+	<select>
+		<option>.....</option>
+		<option>Personal Reasons</option>
+		<option>Professional Reasons</option>
+		<option>Other</option>
+
+
+	</select>
+</td>
+<tr>
+<td><button>Submit</button></td>
+</tr>
+ 
+</table>
+</form>
 
 </html>
