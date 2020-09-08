@@ -8,7 +8,12 @@
 	</style>
 </head>
 <body> 
-<h1>Utkarsh Bajpai</h1>
+<table height = "60" width = "100%" cellpadding = "5" cellspacing = "5" bgcolor = "orange">
+<tr>
+	<td align = "center" color = "white"><h1>Utkarsh Bajpai</h1></td>
+</tr>
+
+</table>
 <p><strong>Hello and welcome!</strong></p>
  Hope y'all 'll enjoy ya time here.<br>
 <strong><h4>About Me</h4></strong>
