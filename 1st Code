@@ -101,8 +101,15 @@
 
 	</select>
 </td>
+</tr>
 <tr>
-<td><button>Submit</button></td>
+<td>Any suggestions/comments or Anything </td>
+<td>
+	<textarea name = "comments" cols ="45" rows = "5"></textarea>
+</tr>
+<tr>
+<td><input type = "submit" name = "submit"></td>
+<td><input type = "reset" name = "reset"></td>
 </tr>
  
 </table>
