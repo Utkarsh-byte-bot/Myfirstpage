@@ -8,9 +8,9 @@
 	</style>
 </head>
 <body> 
-<table height = "60" width = "100%" cellpadding = "5" cellspacing = "5" bgcolor = "orange">
+<table height = "60" width = "100%" cellpadding = "5" cellspacing = "5" bgcolor = "#000000">
 <tr>
-	<td align = "center" color = "white"><h1>Utkarsh Bajpai</h1></td>
+	<td align = "center" color = "white"><h1><font color ="white">Utkarsh Bajpai</h1></td>
 </tr>
 
 </table>
